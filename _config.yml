@@ -1,0 +1,8 @@
+include:
+  - plugins
+
+plugins_dir: []
+exclude:
+  - "*.md"
+  - Gemfile
+  - Gemfile.lock
