@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   onLoad() {
     console.log("[BetterCodeBlocks] loaded!");
   },
