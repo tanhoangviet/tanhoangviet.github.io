@@ -1,14 +1,1 @@
-{
-  "name": "BetterCodeBlocks",
-  "description": "Syntax highlighting, copy button & file viewer for code blocks and attachments — like Discord PC",
-  "authors": [
-    {
-      "name": "tanhoangviet",
-      "id": "000000000000000001"
-    }
-  ],
-  "main": "index.js",
-  "vendetta": {
-    "icon": "ic_message_edit"
-  }
-}
+{"name":"BetterCodeBlocks","description":"Syntax highlighting, copy button & file viewer for code blocks and attachments","authors":[{"name":"tanhoangviet","id":"000000000000000001"}],"main":"index.js","vendetta":{"icon":"ic_message_edit"},"hash":"6d56edca98b2531f949c16f4308a71b6aec0738b0596740e5f98bce86f9e839a"}
